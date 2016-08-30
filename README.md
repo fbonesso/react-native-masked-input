@@ -6,6 +6,9 @@
 
 ## Usage
 
+All you need is to `require` the `react-native-masked-input` module and then use the
+`<MaskedInput />` tag.
+
 ```javascript
 import MaskedInput from 'react-native-masked-input';
 ```
