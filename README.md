@@ -6,4 +6,6 @@
 
 ## Usage
 
-`import MaskedInput from 'react-native-masked-input';`
+```javascript
+import MaskedInput from 'react-native-masked-input';
+```
