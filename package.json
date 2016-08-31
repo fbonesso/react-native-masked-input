@@ -1,0 +1,30 @@
+{
+  "name": "react-native-masked-input",
+  "version": "1.0.2",
+  "description": "A masked input for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbonesso/react-native-masked-input.git"
+  },
+  "keywords": [
+    "react",
+    "react",
+    "native",
+    "input",
+    "mask",
+    "masked",
+    "format",
+    "text",
+    "input"
+  ],
+  "author": "Felipe Bonesso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fbonesso/react-native-masked-input/issues"
+  },
+  "homepage": "https://github.com/fbonesso/react-native-masked-input#readme"
+}
