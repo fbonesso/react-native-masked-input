@@ -11,4 +11,19 @@ All you need is to `require` the `react-native-masked-input` module and then use
 
 ```javascript
 import MaskedInput from 'react-native-masked-input';
+
+<MaskedInput maskType="money" currencySymbol="$" currencySeparator="," />
 ```
+
+## Props
+
+| Prop | Type | Description | Values |
+|---|---|---|---|
+|**`maskType`**|String|Type of masked input.|`['phone', 'money']`|
+|**`currencySymbol`**|String|Currency symbol when money.|`['$', 'R$', '€', '£']`|
+|**`currencySeparator`**|String|Currency separator|`['.', ',']`|
+
+## Roadmap
+- [ ] Decimal
+- [ ] Zipcode
+- [ ] Locales
