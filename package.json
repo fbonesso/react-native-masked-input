@@ -1,6 +1,6 @@
 {
   "name": "react-native-masked-input",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A masked input for React Native",
   "main": "index.js",
   "scripts": {
