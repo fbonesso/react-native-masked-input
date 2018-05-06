@@ -1,6 +1,6 @@
 {
   "name": "react-native-masked-input",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A masked input for React Native",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,10 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fbonesso/react-native-masked-input.git"
+  },
+  "dependencies": {
+  	"prop-types": "^15.5.10",
+	"create-react-class": "15.6.0"
   },
   "keywords": [
     "react",
